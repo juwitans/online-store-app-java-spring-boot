@@ -3,5 +3,5 @@ This is a REST API for online clothing marketplace app. It connects merchants an
 
 ### Technology
 - IntelliJ IDEA 2023.3.6
-- Java 17 SDK
+- Java 17
 - Spring Boot 3.2.5
